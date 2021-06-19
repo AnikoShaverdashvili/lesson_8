@@ -11,3 +11,22 @@
         margin-top: 60px;
     }
 }
+
+@media screen and (max-width: 780px) {
+    .header-container {
+        display: flex;
+    }
+    .nav-icon {
+        margin-left: 15px;
+    }
+    .nav {
+        display: none;
+    }
+    .dropdown {
+        display: block;
+    }
+    .nav-li {
+        margin-left: 0px;
+        margin-bottom: 10px;
+    }
+}
