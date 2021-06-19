@@ -42,7 +42,7 @@ body {
     padding: 12px 16px;
     z-index: 1;
     right: 0px;
-    top: 32px;
+    /* top: 32px; */
     border-radius: 3px;
 }
 
