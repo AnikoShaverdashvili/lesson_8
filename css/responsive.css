@@ -1,0 +1,13 @@
+@media screen and (max-width: 1110px) {
+    .block3,
+    .block4 {
+        margin-top: 60px;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .block1,
+    .block2 {
+        margin-top: 60px;
+    }
+}
